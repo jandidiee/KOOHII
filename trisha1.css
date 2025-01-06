@@ -296,9 +296,13 @@ footer a:hover {
         margin-top: 20px;
     }
 
+    .header-text {
+        top: 250px;
+    }
+
     .header-text p {
         font-size: 0.5em;  
-        top: 120px;  
+        bottom: 20px;
     }
 
     .logo img {
